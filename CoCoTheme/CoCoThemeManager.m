@@ -7,7 +7,6 @@
 //
 
 #import <CoCoTheme/CoCoThemeManager.h>
-#import <CoCoCategorys/UIDevice+Version.h>
 
 
 @implementation CoCoThemeManager
