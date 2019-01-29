@@ -14,7 +14,7 @@ Pod::Spec.new do |s|
   s.author             = { "iScarlett" => "iScarlett@qq.com" }
   s.source = {"git"=>"https://github.com/CoCoKit/CoCoTheme-framework.git", "branch"=>"v1.0.0"}
   s.ios.deployment_target = '9.0'
-  s.ios.vendored_framework = 'CoCoKit.framework'
+  s.ios.vendored_framework = 'CoCoTheme.framework'
   s.requires_arc = true
   #s.exclude_files = "Classes/Exclude"
 end
