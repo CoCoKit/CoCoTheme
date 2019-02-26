@@ -310,7 +310,6 @@
 		};
 		CFFE0B671EF50BEF000B8C4E /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 2090351227946576DD4F5357 /* Pods-CoCoTheme.debug.xcconfig */;
 			buildSettings = {
 				CODE_SIGN_IDENTITY = "";
 				DEFINES_MODULE = YES;
@@ -331,7 +330,6 @@
 		};
 		CFFE0B681EF50BEF000B8C4E /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 3DAACA76DDEBD4AA4712EE3C /* Pods-CoCoTheme.release.xcconfig */;
 			buildSettings = {
 				CODE_SIGN_IDENTITY = "";
 				DEFINES_MODULE = YES;
