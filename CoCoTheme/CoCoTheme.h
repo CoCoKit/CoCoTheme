@@ -10,10 +10,3 @@
 
 #import <CoCoTheme/CoCoThemeManager.h>
 
-// ! Project version number for CoCoTheme.
-FOUNDATION_EXPORT double CoCoThemeVersionNumber;
-
-// ! Project version string for CoCoTheme.
-FOUNDATION_EXPORT const unsigned char CoCoThemeVersionString[];
-
-// In this header, you should import all the public headers of your framework using statements like #import <CoCoTheme/PublicHeader.h>

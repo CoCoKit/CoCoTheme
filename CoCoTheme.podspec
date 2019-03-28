@@ -14,6 +14,7 @@ Pod::Spec.new do |s|
   s.author             = { "iScarlett" => "iScarlett@qq.com" }
   s.source = {"git"=>"https://github.com/CoCoKit/CoCoTheme.git", "branch"=>"v1.0.0"}
   s.source_files  = "CoCoTheme", "CoCoTheme/**/*.{h,m}"
+  s.library = 'c++','z'
   s.platform     = :ios, "9.0"            #支持的平台及版本
   s.requires_arc = true
   #s.exclude_files = "Classes/Exclude"

@@ -6,13 +6,18 @@
 	<dict>
 		<key>CoCoTheme.xcscheme</key>
 		<dict>
+			<key>isShown</key>
+			<true/>
 			<key>orderHint</key>
-			<integer>78</integer>
+			<integer>20</integer>
 		</dict>
-		<key>CoCoTheme.xcscheme_^#shared#^_</key>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>CFFE0B5D1EF50BEF000B8C4E</key>
 		<dict>
-			<key>orderHint</key>
-			<integer>0</integer>
+			<key>primary</key>
+			<true/>
 		</dict>
 	</dict>
 </dict>
